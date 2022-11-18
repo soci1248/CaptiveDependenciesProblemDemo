@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SampleDataAccess/obj
+/SampleDataAccessTest/bin/Debug/net7.0
+/SampleDataAccessTest/obj/Debug/net7.0
+/SampleDataAccessTest/obj/SampleDataAccessTest.csproj.nuget.g.targets
+/SampleDataAccessTest/obj/SampleDataAccessTest.csproj.nuget.g.props
+/SampleDataAccessTest/obj/SampleDataAccessTest.csproj.nuget.dgspec.json
+/SampleDataAccessTest/obj/project.nuget.cache
+/SampleDataAccessTest/obj/project.assets.json
+/.vs/CaptiveDependencyDangerDemo/FileContentIndex
