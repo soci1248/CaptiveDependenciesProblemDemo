@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SampleDataAccess.ProperSolution.ApplicationImageCache">
+    <Position X="10.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAiAA=</HashCode>
+      <FileName>ProperSolution\ApplicationImageCache.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SampleDataAccess.ProperSolution.ApplicationImageCacheStorage">
+    <Position X="13" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ProperSolution\ApplicationImageCacheStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SampleDataAccess.Repository.ApplicationImageRepository">
+    <Position X="13" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\ApplicationImageRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
